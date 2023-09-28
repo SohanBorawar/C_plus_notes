@@ -1,0 +1,5 @@
+Public: Members declared as public are accessible from any part of the program, both inside and outside the class. They can be accessed by objects of the class.
+
+Private: Members declared as private are only accessible within the class itself. They cannot be accessed directly from objects of the class or from outside the class.
+
+Protected: Members declared as protected are similar to private, but with one key difference. They are accessible within the class itself and also by derived classes. Outside the class and its derived classes, protected members are not directly accessible.

@@ -1,0 +1,68 @@
+C++ Programming:-
+
+C++ is a high-level, object oriented programming language.
+
+OOPS:- Object Oriented Programming System
+
+POP vs OOP
+
+POP:- Procedural Oriented Programming Language:- C Language
+
+OOP:- Object Oriented Programming:- C++
+
+It is based on objects
+
+
+C++
+
+Topics:-
+
+Class
+objects
+Constructor
+Encapsulation
+Abstraction
+Inheritance
+Polymorphism
+Function Overloading
+Function Overriding
+
+
+
+History of C++  :-
+
+C++ was created Bjarne Stroustrup in 1983 at bell laboratories,
+California.
+
+C++ Syntax:-
+
+#- predefined 
+include- To add something
+iostream-input output stream- same as stdio.h
+using namespace std;- To use variables as names
+main()
+{
+	code...
+
+
+}
+
+cout<<
+
+user input value- cin>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

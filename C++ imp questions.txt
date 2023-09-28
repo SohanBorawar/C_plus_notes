@@ -1,0 +1,21 @@
+C++(OOPS) Interview Questions:-
+
+1) What is Class?
+
+2) What is Objects?
+
+3) How you can relate class and objects in real world?
+
+4) What is Constructor? Explain the types of constructor
+
+5) What is Encapsulation? What is getter and setter method?
+
+6) What is Inheritance? Explain the types of Inheritance with diagram
+
+7) What is Parent class and Child Class?
+
+8) How you relate the Inheritance in real life ?
+
+9) What is Abstraction? Explain types of Abstraction 
+
+10) What is Polymorphism? Explain the types of Polymorphism.

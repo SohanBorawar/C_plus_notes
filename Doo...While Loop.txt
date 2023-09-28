@@ -1,0 +1,11 @@
+Doo...While Loop :- It is Also Called As Exit Controlled Loop
+
+Syntax :- 
+	
+	Initialization
+	do
+	{
+		statement;
+		updation;
+	}
+	while(condition);

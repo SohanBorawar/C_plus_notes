@@ -1,0 +1,83 @@
+OOPS:- Object Oriented Programming System or Structure
+
+--> Security
+
+Class:- Class is a logical entity that has some specific attributes and
+methods.
+
+			OR
+
+Class is a collection of data member and member function.
+
+Data member:- Variables
+
+Member Function:- Methods
+
+
+
+Object:- Object is an instance or a variable of a class.
+
+Class Student
+
+id,name,subject
+
+Access Modifiers:-
+
+1) public:- It can access anywhere in the class.
+
+2) private:- It can only access within the class.
+
+3) protected:- it is similar to private but it has one key difference that it can be access by the base class and derived class
+
+
+syntax:-
+
+
+
+		class classname
+		{
+			Access modifiers;
+			Data members   - variable
+			member function - methods
+
+		};
+		main()
+		{
+			classname obj;   - object creation
+		}
+
+
+
+
+Bydefault your class is in private mode.
+
+
+Interview Question:-
+
+Difference Between Method and Function:-
+
+Function:- Function will declare outside the class.
+
+Method:- Method will declare inside the class.
+
+
+Task:- create two class company and employee and add following details:-
+company:-
+company name
+company net worth
+company location
+
+employee:-
+employee id
+employee name
+employee dept
+employee salary
+employee designation
+employee bonus
+
+
+
+
+
+
+

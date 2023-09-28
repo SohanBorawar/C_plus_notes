@@ -1,0 +1,44 @@
+Abstraction:-Abstraction is a process to hiding unnecessary details
+from the user and only show the necessary information to the user.
+
+
+---> In Abstraction we will show only necessary information to the user.
+
+There are two types of abstraction:-
+
+1) Abstraction through header files
+
+2) Abstraction through class
+
+Polymorphism:-
+
+Polymorphism derives from greek word. Poly means many and morphism means forms. So Polymorphism means
+many forms.
+
+---> Polymorphism is defines as one class having many forms
+
+
+There are two types of Polymorphism:-
+
+1) Method Overloading:- When one class having same method name but different parameters is called
+Method Overloading
+
+2) Method Overriding:- When Parent class and child class having same method name is called Method
+Overriding.
+
+
+scope resolution operator
+
+
+
+Task:- Write a program to find additon,subtraction and multiplication by using method overloading.
+
+
+
+
+
+
+
+
+
+

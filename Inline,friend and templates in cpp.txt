@@ -1,0 +1,48 @@
+Inline Function:-
+
+---> Inline function is used to increase the efficiency or speed of program
+
+---> Inline function will replace function declaration by function calling
+
+
+---> So it will call the function when we declare the function.
+
+---> We have to use the inline keyword for using the inline function.
+
+Friend Function:-
+
+---> By using friend function we can access all the private members outside
+the class.
+
+---> To use friend function we will use friend keyword.
+
+
+Templates in C++ :-
+
+---> Templates is a generic programming which is used to perform programming
+of different datatypes in same class.
+
+
+---> By using templates we can perform different datatypes in the same class
+
+---> To use templates we will use template keyword.
+
+syntax:-
+
+	template <class T >
+	void funname(T &a, T &b)
+	{
+		code ...
+	}
+
+
+
+
+
+
+
+
+
+
+
+

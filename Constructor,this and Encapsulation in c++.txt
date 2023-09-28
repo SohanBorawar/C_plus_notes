@@ -1,0 +1,65 @@
+Constructor:- Constructor is a special method that will call 
+automatically
+when we create object.
+
+We don't need to call the constructor as it will call automatically.
+
+Constructor will always declare in public mode.
+
+Types of Constructor:-
+
+1) Default Constructor:- A constructor which does not have 
+parameters.
+
+2) Parameterized Constructor:- A constructor which have parameters.
+
+
+
+Note:- Class name and Constructor name always be same.
+
+Task:- Write a program to find addition,subtraction and 
+multiplication using constructor.
+
+this pointer:-
+
+To specify the variables and parameters.
+
+Encapsulation:- Encapsulation is a process of wrapping the data in a 
+single entity 
+
+It provides security to the data.
+
+setter and getter
+
+---> setter is used to set the data and getter is used to get the
+data.
+
+
+
+Class and objects task:-
+
+create a class named area and find the area of rectangle and square
+
+create class named swap and swap two numbers without using third 
+variable.
+
+
+Write a program to find the area of rectangle using constructor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

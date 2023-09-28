@@ -1,0 +1,52 @@
+Inheritance:-
+
+1) Single-level Inheritance:-
+
+ class A(papa)
+     |
+ class B(son)
+
+2) Multilevel Inheritance:-
+
+  class A(dada)
+     |
+  class B(papa)
+     |
+  class C(beta)
+
+
+3) Multiple Inheritance:-
+
+ class A     class B
+          |
+       class C
+
+4) Hierarchical Inheritance:-
+
+  class A 
+     |
+  class B     class C
+
+5) Hybrid Inheritance:-
+
+---> It is a combination of different Inheritance.
+
+
+Task:- create two class batsman and cricketer and inherit the batsman
+class in cricketer and find out the total runs, avg runs and best 
+performance. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
